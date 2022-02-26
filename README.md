@@ -1,2 +1,2 @@
-# Attandance-generation-using-Face-Recognisation
-Attandance generation using Face Recognisation
+# Attendance-generation-using-Face-Recognisation
+Attendance generation using Face Recognisation
